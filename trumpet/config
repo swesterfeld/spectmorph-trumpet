@@ -1,0 +1,45 @@
+name "Trumpet"
+short-name trp
+
+dir data/trumpet
+auto-tune
+auto-loop 50
+auto-volume 50
+
+# change all absolute paths to fit to your system
+sample 52 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-e3.flac
+sample 53 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-f3.flac
+sample 54 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-fis3.flac
+sample 55 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-g3.flac
+sample 56 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-gis3.flac
+sample 57 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-a3.flac
+sample 58 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-ais3.flac
+sample 59 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-h3.flac
+sample 60 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-c4.flac
+sample 61 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-cis4.flac
+sample 62 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-d4.flac
+sample 63 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-dis4.flac
+sample 64 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-e4.flac
+sample 65 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-f4.flac
+sample 66 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-fis4.flac
+sample 67 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-g4.flac
+sample 68 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-gis4.flac
+sample 69 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-a4.flac
+sample 70 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-ais4.flac
+sample 71 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-h4.flac
+sample 72 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-c5.flac
+sample 73 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-cis5.flac
+sample 74 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-d5.flac
+sample 75 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-dis5.flac
+sample 76 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-e5.flac
+sample 77 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-f5.flac
+sample 78 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-fis5.flac
+sample 79 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-g5.flac
+sample 80 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-gis5.flac
+sample 81 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-a5.flac
+sample 82 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-ais5.flac
+sample 83 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-h5.flac
+sample 84 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-c6.flac
+sample 85 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-cis6.flac
+sample 86 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-d6.flac
+# sample 87 /home/stefan/src/spectmorph-trumpet/samples/trumpet/trumpet-ff-dis6.flac # sven-list quality
