@@ -2,13 +2,14 @@ Trumpet Instrument for SpectMorph
 =================================
 
 This is an example instrument for SpectMorph, to allow you to build your own
-instruments. You need to use a text editor
+instruments. You need to use a text editor and replace the absolute paths
+in the files
 
     trumpet/config
     sminstbuidler.cfg
 
-and replace the absolute paths with paths that fit to your system. Then, you
-need to initialize the encoder cache (this only needs to be done once):
+with paths that fit to your system. Then, you need to initialize the encoder
+cache (this only needs to be done once):
 
     mkdir -p ~/.smenccache
 
