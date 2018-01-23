@@ -8,8 +8,11 @@ in the files
     trumpet/config
     sminstbuidler.cfg
 
-with paths that fit to your system. Then, you need to initialize the encoder
-cache (this only needs to be done once):
+with paths that fit to your system. Also the number of jobs that can be run
+at the same time should be edited in sminstbuilder.cfg.
+
+Then, you need to initialize the encoder cache (this only needs to be done
+once):
 
     mkdir -p ~/.smenccache
 
