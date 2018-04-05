@@ -1,19 +1,15 @@
 Trumpet Instrument for SpectMorph
 =================================
 
-Requirements: you need a recent version of SpectMorph, *newer than 2018-01-24*
+Requirements: you need a recent version of SpectMorph, *newer than 2018-04-05*
 to follow these instructions, at the time of writing this, this means that
 you need to build SpectMorph from git.
 
 This is an example instrument for SpectMorph, to allow you to build your own
-instruments. You need to use a text editor and replace the absolute paths
-in the files
+instruments. Before using this, you shoud edit the number of jobs that can
+be executed at the same time on your system in
 
-    trumpet/config
-    sminstbuidler.cfg
-
-with paths that fit to your system. Also the number of jobs that can be run
-at the same time should be edited in sminstbuilder.cfg.
+    sminstbuilder.cfg
 
 Then, you need to initialize the encoder cache (this only needs to be done
 once):
