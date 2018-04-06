@@ -1,17 +1,13 @@
 Trumpet Instrument for SpectMorph
 =================================
 
-Requirements: you need a recent version of SpectMorph, *newer than 2018-04-05*
+Requirements: you need a recent version of SpectMorph, *newer than 2018-04-06*
 to follow these instructions, at the time of writing this, this means that
 you need to build SpectMorph from git.
 
 This is an example instrument for SpectMorph, to allow you to build your own
-instruments. Before using this, you shoud edit the number of jobs that can
-be executed at the same time on your system in
-
-    sminstbuilder.cfg
-
-Finally you should be able to build the trumpet.smset file using
+instruments. The samples used to build this are located in samples/trumpet. To
+build the trumpet instrument from these samples, run
 
     sminstbuilder trumpet
 
