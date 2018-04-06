@@ -11,11 +11,6 @@ be executed at the same time on your system in
 
     sminstbuilder.cfg
 
-Then, you need to initialize the encoder cache (this only needs to be done
-once):
-
-    mkdir -p ~/.smenccache
-
 Finally you should be able to build the trumpet.smset file using
 
     sminstbuilder trumpet
