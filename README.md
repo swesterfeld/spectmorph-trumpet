@@ -1,9 +1,8 @@
 Trumpet Instrument for SpectMorph
 =================================
 
-Requirements: you need a recent version of SpectMorph, *newer than 2018-04-06*
-to follow these instructions, at the time of writing this, this means that
-you need to build SpectMorph from git.
+Requirements: you need at least *SpectMorph-0.4.0* to follow these
+instructions.
 
 This is an example instrument for SpectMorph, to allow you to build your own
 instruments. The samples used to build this are located in samples/trumpet. To
