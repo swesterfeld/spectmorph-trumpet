@@ -32,3 +32,8 @@ called plong, you can do something like
     cp trumpet/config plong
     ...edit plong/config...
     sminstbuilder plong
+
+Even after you have created a .smset file, it is recommended to keep your
+configuration and samples, since newer versions of SpectMorph will probably
+have a backward incompatible smset files, and you need to rerun sminstbuilder
+to create a new .smset file.
